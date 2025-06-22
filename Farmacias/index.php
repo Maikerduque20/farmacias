@@ -53,7 +53,7 @@
     <img src="static/img/farmacia.jpg" alt="logo medicina" class="logo">
 
     <!-- Título -->
-    <h1 class="titulo">Farmacias en Guasdualito</h1>
+    <h1 class="titulo">Farmacias en Guasdualito.</h1>
 
     <!-- Descripción -->
     <p class="descripcion">Una herramienta tecnológica de innovación en la atención al cliente en farmacias de Guasdualito</p>
